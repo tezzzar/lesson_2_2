@@ -1,0 +1,23 @@
+#blue {
+  border: 3px solid blue;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.black {
+  background-color: black;
+  color: white;
+  font-size: 27px;
+  text-decoration: underline;
+  font-style: italic;
+  border: none;
+}
+
+p {
+font-size: 25px;
+border-right: 3px dotted red;
+}
+
+span {
+color: red;
+}
